@@ -1,0 +1,5 @@
+dist
+node_modules
+app/templates
+app/environments.js
+*-app
