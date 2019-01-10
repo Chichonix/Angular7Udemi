@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="babf70a4-945d-4724-abcd-8e8eec5a6bfb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../backend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jpa/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jpa/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jpa/jpain10steps/src/main/java/com/in28minutes/learning/jpa/jpain10steps/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jpa/jpain10steps/src/main/java/com/in28minutes/learning/jpa/jpain10steps/entity/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jpa/jpain10steps/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../jpa/jpain10steps/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jpa/jpain10steps/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../jpa/jpain10steps/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jpa/jpain10steps/target/classes/com/in28minutes/learning/jpa/jpain10steps/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jpa/jpain10steps/target/classes/com/in28minutes/learning/jpa/jpain10steps/entity/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="babf70a4-945d-4724-abcd-8e8eec5a6bfb" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/springbootin10steps/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -254,7 +246,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547032063154" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547110918486" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -308,7 +300,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Favorites" order="1" side_tool="true" />

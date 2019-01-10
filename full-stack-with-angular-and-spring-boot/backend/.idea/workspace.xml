@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98086c56-551e-4551-97d4-f97d97a3df18" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jpa/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jpa/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jpa/jpain10steps/src/main/java/com/in28minutes/learning/jpa/jpain10steps/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jpa/jpain10steps/src/main/java/com/in28minutes/learning/jpa/jpain10steps/entity/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jpa/jpain10steps/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../jpa/jpain10steps/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jpa/jpain10steps/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../jpa/jpain10steps/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jpa/jpain10steps/target/classes/com/in28minutes/learning/jpa/jpain10steps/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jpa/jpain10steps/target/classes/com/in28minutes/learning/jpa/jpain10steps/entity/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-boot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="98086c56-551e-4551-97d4-f97d97a3df18" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/parent/target/" />
     <ignored path="$PROJECT_DIR$/model/target/" />
     <ignored path="$PROJECT_DIR$/service/target/" />
@@ -395,7 +387,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547032063114" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547110918417" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/service/src/main/java/com/spring/restfull/webservices/service" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/service/src/main/java/com/spring/restfull/webservices/service/jwt/resource" />
@@ -484,7 +476,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24307036" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
