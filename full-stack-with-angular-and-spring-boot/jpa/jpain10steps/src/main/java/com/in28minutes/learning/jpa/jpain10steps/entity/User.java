@@ -14,8 +14,12 @@ public class User {
     @Id
     @GeneratedValue
     private long id;
+
     private String name;
     private String role;
+
+    public User() {
+    }
 
     public User(String name, String role) {
         this.name = name;
